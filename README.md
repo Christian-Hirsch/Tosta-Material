@@ -12,11 +12,12 @@ Tosta-2: Neural Networks and Deep Learning
 9. [Recurrent Neural Networks & Text Generation](./notebooks/recurrent.ipynb)
 10. [Convolutional Neural Networks & Deep Dream](./notebooks/conv.ipynb)
 11. [Autoencoders](./notebooks/autoEnc.ipynb)
-12. [Pix2Pix](./notebooks/pix2pix.ipynb)
+12. [Generative Adversarial Networks](./notebooks/gan.ipynb)
+13. [Pix2Pix](./notebooks/pix2pix.ipynb)
 
 
 ## Dependencies
-Make sure that you have all packages installed that are needed to compile all cells of [this notebook](./notebooks/tech_check.ipynb).
+Make sure that you have all packages installed that are needed to execute all cells of [this notebook](./notebooks/tech_check.ipynb).
 
 ## References
 
