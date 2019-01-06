@@ -4,7 +4,7 @@ This is the course website for the autumn 2018 lecture on *Topics in Statistical
 ## Course 
 This course is an introduction to neural networks and deep learning. We cover both mathematical foundations as well as more practical aspects. On the mathematical side backpropagation, stochastic gradient descent and variational autoencoders form the core of the course. On the implementation side, we discuss regularization methods, convolutional neural networks, recurrent neural networks and generative adversarial networks.
 
-**Lecture:** Monday and Thusday, 8-12
+**Lecture:** Monday and Thursday, 8-12
 
 **Office hours:** by appointment
 
